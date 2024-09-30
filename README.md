@@ -1,4 +1,4 @@
-### Hello There, I'm Ricard 👋
+### Hello there, I'm Ricard 👋
 
 Software Engineer
 
